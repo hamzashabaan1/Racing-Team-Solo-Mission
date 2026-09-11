@@ -1,8 +1,6 @@
 # Racing-Team-Solo-Mission
 admission of tasks required for joining asu racing team
-you will find all the files of stm32 ide in the zipped file named solo mission stm32
-these photos are the results
-i know there could have been better and i am sorry this probably isnt the required form of registration but a lot happened these last day made me lose two days of the 4 days i dont want to be irrelevant so anyways i hope i get another chance to show i got more than this only and thank you
+the files are in the other branch called master
 
 questions answers : (i found the liscence of word not working and i was short on time)
 competition rule :
